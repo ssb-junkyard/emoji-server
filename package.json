@@ -1,0 +1,15 @@
+{
+  "name": "emoji-server",
+  "description": "emoji serving middleware",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ssbc/emoji-server",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssbc/emoji-server.git"
+  },
+  "dependencies": {
+    "emoji-named-characters": "~1.0.2"
+  },
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"
+}
