@@ -1,7 +1,7 @@
 {
   "name": "emoji-server",
   "description": "emoji serving middleware",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/ssbc/emoji-server",
   "repository": {
     "type": "git",
